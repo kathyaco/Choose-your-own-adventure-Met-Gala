@@ -1,0 +1,77 @@
+/* envelope img decor */
+.envelope {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+img {
+    width: 450px;
+    height: 400px;
+}
+
+button {
+    width: 400px;
+    height: 40px;
+}
+
+/* Invitation */
+.invitation {
+    display: none;
+    width: 6000px;
+}
+
+/* Button Decor*/
+.button {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+/* The ending screen*/
+.the-end {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+/* Pop Up Celebrity-imgs if yes-button is clicked*/
+
+.celebrity-imgs {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.riri-looks {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.diddy-looks {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.leto-looks {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.cher-looks {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
